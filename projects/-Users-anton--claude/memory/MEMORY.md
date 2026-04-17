@@ -1,0 +1,1 @@
+- [Response style feedback](feedback.md) — Keine Trailing-Summaries, VSCode Datei-Refs

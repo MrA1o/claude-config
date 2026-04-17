@@ -1,0 +1,30 @@
+# Sessions & History
+sessions/
+history.jsonl
+file-history/
+
+# Cache & Downloads
+cache/
+downloads/
+plugins/cache/
+
+# Telemetry & Runtime
+telemetry/
+session-env/
+shell-snapshots/
+ide/
+backups/
+
+# Project conversations (JSON/JSONL), but keep memory/*.md
+projects/**/*.jsonl
+projects/**/*.json
+
+# Large auto-managed plugin marketplace
+plugins/marketplaces/
+
+# Runtime state
+tasks/
+plans/
+
+# Session-generated local permissions
+.claude/settings.local.json
