@@ -31,3 +31,4 @@ plans/
 
 # Auto-generated plugin runtime data
 plugins/install-counts-cache.json
+projects/*/tool-results/
