@@ -28,3 +28,6 @@ plans/
 
 # Session-generated local permissions
 .claude/settings.local.json
+
+# Auto-generated plugin runtime data
+plugins/install-counts-cache.json

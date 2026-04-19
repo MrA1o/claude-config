@@ -1,4 +1,24 @@
 {
   "version": 2,
-  "plugins": {}
+  "plugins": {
+    "superpowers@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/Users/anton/.claude/plugins/cache/claude-plugins-official/superpowers/5.0.7",
+        "version": "5.0.7",
+        "installedAt": "2026-04-18T18:22:13.242Z",
+        "lastUpdated": "2026-04-18T18:22:13.242Z",
+        "gitCommitSha": "b55764852ac78870e65c6565fb585b6cd8b3c5c9"
+      }
+    ],
+    "context7@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/Users/anton/.claude/plugins/cache/claude-plugins-official/context7/unknown",
+        "version": "unknown",
+        "installedAt": "2026-04-18T18:22:13.354Z",
+        "lastUpdated": "2026-04-18T18:22:13.354Z"
+      }
+    ]
+  }
 }
